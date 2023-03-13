@@ -1,0 +1,17 @@
+Size after offers: 10
+is the heap empty?: false
+first element should be Once: Once
+Should print: Once upon a time this dog ate a blueberry theEnd
+Prints: Once upon a time this dog ate a blueberry theEnd 
+Size after polling everything: 0
+is the heap empty?: true
+
+when heap is empty peek will: null
+when heap is empty poll will: null
+when heap is empty and we remove top peek will still be null: null
+
+Heap capacity is 3 and four items are offered the fourth one should be null
+to be continued null 
+
+Test shows if keys have same values each will be polled in order of when offered
+to be continued 

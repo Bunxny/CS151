@@ -1,0 +1,22 @@
+Script started on Wed Sep 28 20:28:31 2022
+[1m[7m%[27m[1m[0m                                                                                                             ]633;D]633;P;Cwd=/Users/anna/CS151/HW4[0m[27m[24m[J]633;Aanna@wc125-dhcp-79 HW4 % ]633;B[K[?2004h /usr/bin/env /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:55442 -cp /Users/anna/Library/Application\ Support/Code/User/workspaceStorage/17f4420973a00ec0f39377459c7a39f8/redhat.java/jdt_ws/HW4_8661e91a/bin Main[K[1C[A[A[70C7[2B[71D[A[A[68C171[2B[76DPlaceContainer [3A[2Cjava PlaceContainer[K[1B[K[1B[K[1B[K[3A[44C[15Dc PlaceContainer.java[21D[P[15C      [15Dc PlaceContainer.java[21D[P[15C      [15Dc PlaceContainer.java[21D[P[15C      [15Dc PlaceContainer.java[21D Main                [16Dc PlaceContainer.java[21D Main                [16Dc PlaceContainer.java[21D Main                [16D.java[?2004l[1B]633;C]633;E;java Main.javaerror: class found on application class path: Main
+[1m[7m%[27m[1m[0m                                                                                                             ]633;D;1]633;P;Cwd=/Users/anna/CS151/HW4[0m[27m[24m[J]633;Aanna@wc125-dhcp-79 HW4 % ]633;B[K[?2004hjava Main.java[14D /usr/b[2C/env /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:55442 -cp /Users/anna/Library/Application\ Support/Code/User/workspaceStorage/17f4420973a00ec0f39377459c7a39f8/redhat.java/jdt_ws/HW4_8661e91a/bin Main[K[1C[3A[12Cjava Ma[2C.java[K[1B[K[1B[K[1B[K[3A[39C[14D              [14Djava Main.java     [9D /usr/b[2C/env /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:55442 -cp /Users/anna/Library/Application\ Support/Code/User/workspaceStorage/17f4420973a00ec0f39377459c7a39f8/redhat.java/jdt_ws/HW4_8661e91a/bin Main[K[1C[A[A[70C7[2B[71D[A[A[70C2[2B[71D[3A[12Cjava Ma[2C[K[1B[K[1B[K[1B[K[3A[34C[9D /usr/b[2C/env /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:55442 -cp /Users/anna/Library/Application\ Support/Code/User/workspaceStorage/17f4420973a00ec0f39377459c7a39f8/redhat.java/jdt_ws/HW4_8661e91a/bin Main[K[1C[3A[12Cjava Ma[2C[K[1B[K[1B[K[1B[K[3A[34C[9D         [9Djava Mainc Main[1C[1C[1C[1C[1C.java[?2004l[1B]633;C]633;E;javac Main.java[1m[7m%[27m[1m[0m                                                                                                             ]633;D;0]633;P;Cwd=/Users/anna/CS151/HW4[0m[27m[24m[J]633;Aanna@wc125-dhcp-79 HW4 % ]633;B[K[?2004hjavac Main.java[11D[P[10C [?2004l
+]633;C]633;E;java Main.javaerror: class found on application class path: Main
+[1m[7m%[27m[1m[0m                                                                                                             ]633;D;1]633;P;Cwd=/Users/anna/CS151/HW4[0m[27m[24m[J]633;Aanna@wc125-dhcp-79 HW4 % ]633;B[K[?2004hjava Main.java     [?2004l
+]633;C]633;E;java MainEnter a zip code to lookup (q to quit): 19010
+19010 BRYN MAWR, PA        Lat:40.02  Lon:-75.31  Pop:25176
+Enter a zip code to lookup (q to quit): 07040
+07040 MAPLEWOOD, NJ        Lat:40.73  Lon:-74.27  Pop:32576
+Enter a zip code to lookup (q to quit): 09311
+09311 APO, AE        
+Enter a zip code to lookup (q to quit): 81288
+Not Found
+Enter a zip code to lookup (q to quit): 16427
+16427 MILL VILLAGE, PA        Lat:41.87  Lon:-79.97  
+Enter a zip code to lookup (q to quit): exit
+Not Found
+Enter a zip code to lookup (q to quit): q
+Goodbye!
+[1m[7m%[27m[1m[0m                                                                                                             ]633;D;0]633;P;Cwd=/Users/anna/CS151/HW4[0m[27m[24m[J]633;Aanna@wc125-dhcp-79 HW4 % ]633;B[K[?2004heexit[?2004l
+]633;C]633;E;exit
+Script done on Wed Sep 28 20:33:00 2022
